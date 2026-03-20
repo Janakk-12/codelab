@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 
   // 2. Titles
   title: {
-    default: "Syandie - Headquarter | Soon",
+    default: "Janak - Headquarter | Soon",
     template: "%s | Syandie"
   },
 
