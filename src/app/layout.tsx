@@ -10,19 +10,19 @@ export const metadata: Metadata = {
   // 2. Titles
   title: {
     default: "Janak - Headquarter | Soon",
-    template: "%s | Syandie"
+    template: "%s | Janak"
   },
 
   // 3. Description & Keywords
-  description: "Portfolio - Syandie",
-  keywords: ["", "", "", "Syandie", ""],
+  description: "Portfolio - Janak",
+  keywords: ["", "", "", "Janak", ""],
 
   // 4. Open Graph
   openGraph: {
     title: "Syandie - Headquarter | Soon",
-    description: "Portfolio - Syandie",
+    description: "Portfolio - Janak",
     url: "https://sandeshkharel.com.np",
-    siteName: "Portfolio - Syandie",
+    siteName: "Portfolio - Janak",
     // images: [
     //   {
     //     url: "/og-image.webp", 
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   // 5. Twitter Card
   twitter: {
     card: "summary_large_image",
-    title: "Syandie - Headquarter | Soon",
+    title: "Janak - Headquarter | Soon",
     description: "Portfolio - Syandie",
     images: ["/og-image.png"],
     creator: "@Khar3lSand3sh",
