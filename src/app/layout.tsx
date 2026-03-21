@@ -5,30 +5,30 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   // 1. Metadata Base (Fixes the warning)
-  metadataBase: new URL("https://sandeshkharel.com.np"),
+  metadataBase: new URL("https://janakbudhathoki.com.np"),
 
   // 2. Titles
   title: {
-    default: "Syandie - Headquarter | Soon",
-    template: "%s | Syandie"
+    default: "Janak - Headquarter | Soon",
+    template: "%s | Janak"
   },
 
   // 3. Description & Keywords
-  description: "Portfolio - Syandie",
-  keywords: ["", "", "", "Syandie", ""],
+  description: "Portfolio - Janak",
+  keywords: ["", "", "", "Janak", ""],
 
   // 4. Open Graph
   openGraph: {
-    title: "Syandie - Headquarter | Soon",
-    description: "Portfolio - Syandie",
-    url: "https://sandeshkharel.com.np",
-    siteName: "Portfolio - Syandie",
+    title: "Janak - Headquarter | Soon",
+    description: "Portfolio - Janak",
+    url: "https://janakbudhathoki.com.np",
+    siteName: "Portfolio - Janak",
     // images: [
     //   {
     //     url: "/og-image.webp", 
     //     width: 1200,
     //     height: 630,
-    //     alt: "Portfolio - Syandie",
+    //     alt: "Portfolio - Janak",
     //   },
     // ],
     locale: "en_US",
@@ -38,8 +38,8 @@ export const metadata: Metadata = {
   // 5. Twitter Card
   twitter: {
     card: "summary_large_image",
-    title: "Syandie - Headquarter | Soon",
-    description: "Portfolio - Syandie",
+    title: "Janak - Headquarter | Soon",
+    description: "Portfolio - Janak",
     images: ["/og-image.png"],
     creator: "@Khar3lSand3sh",
   },
