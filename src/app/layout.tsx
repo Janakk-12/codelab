@@ -19,10 +19,10 @@ export const metadata: Metadata = {
 
   // 4. Open Graph
   openGraph: {
-    title: "Janak - Headquarter | Soon",
-    description: "Portfolio - Janak",
-    url: "https://janakbudhathoki.com.np",
-    siteName: "Portfolio - Janak",
+    title: "Syandie - Headquarter | Soon",
+    description: "Portfolio - Syandie",
+    url: "https://sandeshkharel.com.np",
+    siteName: "Portfolio - Syandie",
     // images: [
     //   {
     //     url: "/og-image.webp", 
@@ -38,8 +38,8 @@ export const metadata: Metadata = {
   // 5. Twitter Card
   twitter: {
     card: "summary_large_image",
-    title: "Janak - Headquarter | Soon",
-    description: "Portfolio - Janak",
+    title: "Syandie - Headquarter | Soon",
+    description: "Portfolio - Syandie",
     images: ["/og-image.png"],
     creator: "@Khar3lSand3sh",
   },
