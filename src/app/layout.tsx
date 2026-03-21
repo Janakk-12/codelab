@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 
   // 4. Open Graph
   openGraph: {
-    title: "Syandie - Headquarter | Soon",
+    title: "Janak - Headquarter | Soon",
     description: "Portfolio - Janak",
     url: "https://sandeshkharel.com.np",
     siteName: "Portfolio - Janak",
